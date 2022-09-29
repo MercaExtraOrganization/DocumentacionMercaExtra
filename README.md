@@ -1,7 +1,8 @@
 # MercaExtra🖐
 ## Tabla de contenido 
 
-## 1- PLANTEAMIENTO DEL PROBLEMA             https://github.com/MercaExtraOrganization/DocumentacionMercaExtra/blob/main/Organizaci%C3%B3n%20de%20documentos/Planteamiento%20del%20problema/PlanteamientoDelProblema%20.docx
+## 1- PLANTEAMIENTO DEL PROBLEMA    
+https://github.com/MercaExtraOrganization/DocumentacionMercaExtra/blob/main/Organizaci%C3%B3n%20de%20documentos/Planteamiento%20del%20problema/PlanteamientoDelProblema%20.docx
 
 ## 2- ESPECIFICACION DE REQUISITOS
 https://github.com/MercaExtraOrganization/DocumentacionMercaExtra/blob/main/Organizaci%C3%B3n%20de%20documentos/Especificaci%C3%B3n%20de%20requisitos/Especificaci%C3%B3n%20de%20requisitos%20de%20software%20MercaExtra%20.docx
