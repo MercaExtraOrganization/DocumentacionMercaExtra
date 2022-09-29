@@ -21,15 +21,15 @@ https://github.com/MercaExtraOrganization/DocumentacionMercaExtra/blob/main/Orga
 7-MANUALES DE USUARIO
 
  7.1- ADMINISTRADOR
- https://github.com/MercaExtraOrganization/DocumentacionMercaExtra/blob/main/Organizaci%C3%B3n%20de%20documentos/Manuales%20de%20usuario/PT-MU-01-Manualdeusuario-      administrador.docx
- 
+https://github.com/MercaExtraOrganization/DocumentacionMercaExtra/blob/main/Organizaci%C3%B3n%20de%20documentos/Manuales%20de%20usuario/PT-MU-01-Manualdeusuario-administrador.docx
+
  7.2- CLIENTE
  https://github.com/MercaExtraOrganization/DocumentacionMercaExtra/blob/main/Organizaci%C3%B3n%20de%20documentos/Manuales%20de%20usuario/PT-MU-01-Manualdeusuario-cliente.docx
  
 8-PLAN DE PRUEBAS
 https://github.com/MercaExtraOrganization/DocumentacionMercaExtra/blob/main/Organizaci%C3%B3n%20de%20documentos/Plan%20de%20pruebas/Documento%20Plan%20De%20Pruebas.docx
                                                                                                                                 
-9-Actas
+9-ACTAS
 https://github.com/MercaExtraOrganization/DocumentacionMercaExtra/tree/main/Organizaci%C3%B3n%20de%20documentos/Actas
 
 10- CRONOGRAMAS
