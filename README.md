@@ -1,5 +1,5 @@
 # MercaExtra🖐
-                                                                ## Tabla de contenido 
+## Tabla de contenido 
 
 ##1- PLANTEAMIENTO DEL PROBLEMA             https://github.com/MercaExtraOrganization/DocumentacionMercaExtra/blob/main/Organizaci%C3%B3n%20de%20documentos/Planteamiento%20del%20problema/PlanteamientoDelProblema%20.docx
 
